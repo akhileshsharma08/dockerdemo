@@ -13,7 +13,7 @@
 
 
 
- FROM  centos:latest
+ FROM ubuntu:latest
  MAINTAINER its.akhilesh23@gmail.com
  RUN yum install -y httpd \
   zip\
